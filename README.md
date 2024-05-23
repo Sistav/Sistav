@@ -1,6 +1,6 @@
 ## Turn Back! This profile harbors code of unspeakable horror.
 
-### I'm [Sistav](https://sistav.com), I make whatever I think would be cool.
+### I'm [Sistav](https://sistav.com), I code whatever comes to mind.
 
 ### Works from My Repertoire:
 - [**Little Man Computer Emulator**](https://github.com/Sistav/LittleManComputerEmulator)  
