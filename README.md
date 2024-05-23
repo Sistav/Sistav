@@ -2,7 +2,7 @@
 
 ### I'm [Sistav](https://sistav.com), I make whatever I think would be cool.
 
-### Prized Works from My Archive:
+### Works from My Repertoire:
 - [**Little Man Computer Emulator**](https://github.com/Sistav/LittleManComputerEmulator)  
   *A terminal-based interpreter for Little Man Computer (LMC) machine code.*
 
