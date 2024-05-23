@@ -10,3 +10,9 @@
 
 - [Encryption Algorithms](https://github.com/Sistav/Encryption-Algorithms)  
   *A suite of encryption and decryption algorithms written in Python.*
+  
+### Find me on other platforms:
+- [My Website](https://sistav.com/)
+- [Mastodon](https://fosstodon.org/@Sistav)
+- [Twitter](https://x.com/NotSistav)
+- Email me at: [admin@sistav.com](mailto:admin@sistav.com)
