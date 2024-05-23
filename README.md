@@ -1,7 +1,6 @@
 ## Turn Back! This profile harbors code of unspeakable horror.
 
 ### I'm [Sistav](https://sistav.com), I make whatever I think would be cool.
-[![Follow on GitHub](https://img.shields.io/github/followers/Sistav?label=Follow&style=social)](https://github.com/Sistav?tab=followers)
 
 ### Prized Works from My Archive:
 - [**Little Man Computer Emulator**](https://github.com/Sistav/LittleManComputerEmulator)  
@@ -28,4 +27,5 @@
 - [Mastodon](https://fosstodon.org/@Sistav)
 - [Twitter](https://x.com/NotSistav)
 - Email me at: [admin@sistav.com](mailto:admin@sistav.com)
+- Follow me on [GitHub](https://github.com/Sistav?tab=followers)
 
