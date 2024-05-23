@@ -3,7 +3,7 @@
 
 ### Some of my favorite projects include:
 - [Little Man Computer Emulator](https://github.com/Sistav/LittleManComputerEmulator)  
-  *A termnial-based interpreter for the Little Man Computer (LMC) machine code.*
+  *A termnial-based interpreter for Little Man Computer (LMC) machine code.*
 
 - [Fractals](https://github.com/Sistav/Fractals)  
   *Visualise different fractals using Tkinter.*
