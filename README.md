@@ -1,8 +1,9 @@
-## Turn Back! This profile harbors code of unspeakable horror.
+## Welcome to My Profile
 
-### I'm [Sistav](https://sistav.com), I code whatever comes to mind.
+### About Me
+I'm [Sistav](https://sistav.com), I code whatever comes to mind.
 
-### Works from My Repertoire:
+### My Projects
 - [**Little Man Computer Emulator**](https://github.com/Sistav/LittleManComputerEmulator)  
   *A terminal-based interpreter for Little Man Computer (LMC) machine code.*
 
@@ -12,7 +13,7 @@
 - [**Encryption Algorithms**](https://github.com/Sistav/Encryption-Algorithms)  
   *A suite of encryption and decryption algorithms written in Python.*
 
-### Scriptures in My Grimoire:
+### Languages I Use
 - C/C++
 - Python
 - Rust
@@ -22,10 +23,9 @@
 - x86 Assembly
 - 6502 Assembly
 
-### Seek Me in the Ether:
-- [My Website](https://sistav.com/)
-- [Mastodon](https://fosstodon.org/@Sistav)
-- [Twitter](https://x.com/NotSistav)
-- Email me at: [admin@sistav.com](mailto:admin@sistav.com)
+### Connect with Me
+- Website: [sistav.com](https://sistav.com/)
+- Mastodon: [@Sistav](https://fosstodon.org/@Sistav)
+- Twitter: [@NotSistav](https://x.com/NotSistav)
+- Email: [admin@sistav.com](mailto:admin@sistav.com)
 - Follow me on [GitHub](https://github.com/Sistav?tab=followers)
-
