@@ -20,6 +20,7 @@ I'm [Sistav](https://sistav.com), I code whatever comes to mind.
 - Java
 - PHP
 - Elixir
+- C#
 - x86 Assembly
 - 6502 Assembly
 
