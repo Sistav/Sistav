@@ -1,7 +1,7 @@
 ## Welcome to My Profile
 
 ### About Me
-I'm [Sistav](https://sistav.com), I code whatever comes to mind.
+Hi, I'm [Georgios](https://vatsis.ca). I code whatever comes to mind.
 
 ### My Projects
 - [**Little Man Computer Emulator**](https://github.com/Sistav/LittleManComputerEmulator)  
@@ -23,10 +23,3 @@ I'm [Sistav](https://sistav.com), I code whatever comes to mind.
 - C#
 - x86 Assembly
 - 6502 Assembly
-
-### Connect with Me
-- Website: [sistav.com](https://sistav.com/)
-- Mastodon: [@Sistav](https://fosstodon.org/@Sistav)
-- Twitter: [@NotSistav](https://x.com/NotSistav)
-- Email: [admin@sistav.com](mailto:admin@sistav.com)
-- Follow me on [GitHub](https://github.com/Sistav?tab=followers)
